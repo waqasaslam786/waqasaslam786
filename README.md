@@ -1,27 +1,145 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Master Head Image" style="width:200%;">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=header&text=&fontSize=0" />
+
+```
+██╗    ██╗ █████╗  ██████╗  █████╗ ███████╗
+██║    ██║██╔══██╗██╔═══██╗██╔══██╗██╔════╝
+██║ █╗ ██║███████║██║   ██║███████║███████╗
+██║███╗██║██╔══██║██║▄▄ ██║██╔══██║╚════██║
+╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║███████║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝
+```
+
+# Hi, I'm Waqas Aslam 👋
+
+**Principal Software Engineer** · 7+ Years Experience · Full Stack
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=PHP+%7C+Laravel+%7C+Node.js+%7C+React+%7C+Vue;Building+SaaS+%7C+APIs+%7C+Mobile+Apps;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-1a7f37?style=for-the-badge&labelColor=161b22)
+![Location](https://img.shields.io/badge/📍_Location-Pakistan-58a6ff?style=for-the-badge&labelColor=161b22)
+![Learning](https://img.shields.io/badge/📚_Learning-AWS_·_Python-e3b341?style=for-the-badge&labelColor=161b22)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Waqas Aslam</h1>
-<h3 align="center">Principal Software Engineer | 7+ years experience</h3>
+---
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## `> whoami`
 
+Principal Software Engineer with **7+ years** of experience architecting and shipping production-grade **SaaS platforms, REST APIs**, and **mobile applications**. I've worked across multiple companies, taking products from zero to scale — leading teams, designing systems, and writing the code that ties it all together.
 
-- 🌱 I’m currently learning **AWS, Python**
+Currently leveling up in **AWS** and **Python** to go deeper on cloud-native architecture. **Open to senior/principal engineering roles** where I can own architecture decisions and make an impact.
 
-- 💬 Ask me about **Php, Laravel, Node JS, React JS, Vue JS, AWS**
+---
 
-- 📫 How to reach me **waqasaslam2808@gmail.com**
+## `> cat experience.log`
 
-- ⚡ Fun fact **I am funny**
+| Role | Company | Stack | Period |
+|------|---------|-------|--------|
+| 🔷 **Principal Software Engineer** | *Most Recent Role* | Laravel · React · AWS · Docker | 2022 – Present |
+| 🔶 **Senior Full Stack Developer** | *Previous Company* | Node.js · Vue.js · GraphQL · MySQL | 2019 – 2022 |
+| 🔹 **Full Stack Developer** | *SaaS Startup* | PHP · React · REST APIs | 2017 – 2019 |
+| 🔸 **Mobile & Backend Developer** | *Early Career* | Flutter · Kotlin · Firebase | 2016 – 2017 |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-aslam-full-stack-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waqas-aslam-full-stack-developer/" height="30" width="40" /></a>
-</p>
+> 📌 *5+ companies · SaaS · Backend APIs · Mobile · E-commerce*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasaslam786&show_icons=true&locale=en&layout=compact" alt="waqasaslam786" /></p>
+## `> ls ./featured_projects`
+
+<div align="center">
+
+[![saas-platform](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff)](https://github.com/waqasaslam786/YOUR_REPO_1)
+[![api-gateway](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff)](https://github.com/waqasaslam786/YOUR_REPO_2)
+[![flutter-starter](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=YOUR_REPO_3&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff)](https://github.com/waqasaslam786/YOUR_REPO_3)
+
+</div>
+
+> 💡 *Replace `YOUR_REPO_1`, `YOUR_REPO_2`, `YOUR_REPO_3` with your actual public repo names.*
+
+---
+
+## `> cat tech_stack.json`
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=waqasaslam786&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasaslam786&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e" />
+
+<br/>
+
+<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=waqasaslam786&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=waqasaslam786&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+## `> ping connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-aslam-full-stack-developer/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasaslam2808@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqasaslam786)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=waqasaslam786&color=58a6ff&style=flat-square&label=Profile+Views)
+
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
+
+</div>
