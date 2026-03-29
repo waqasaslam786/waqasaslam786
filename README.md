@@ -51,19 +51,6 @@ I write clean, maintainable code and believe that great software is as much abou
 
 > Worked across **5+ companies** spanning SaaS products, backend APIs, mobile apps, and e-commerce platforms.
 
----
-
-## 🚀 Featured Projects
-
-> Replace `REPO_NAME_1` through `REPO_NAME_4` below with your actual **public** GitHub repository names.
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/waqasaslam786/REPO_NAME_1)&nbsp;[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/waqasaslam786/REPO_NAME_2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=REPO_NAME_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/waqasaslam786/REPO_NAME_3)&nbsp;[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=waqasaslam786&repo=REPO_NAME_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/waqasaslam786/REPO_NAME_4)
-
-</div>
 
 ---
 
@@ -126,9 +113,6 @@ I write clean, maintainable code and believe that great software is as much abou
 <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app?user=waqasaslam786&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d" alt="GitHub Streak" />
 
 <br/><br/>
-
-<!-- Trophies — github-profile-trophy.vercel.app is stable -->
-<img src="https://github-profile-trophy.vercel.app/?username=waqasaslam786&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
